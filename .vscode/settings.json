@@ -1,4 +1,5 @@
 {
   "css.lint.emptyRules": "warning",
-  "css.lint.unknownAtRules": "ignore"
+  "css.lint.unknownAtRules": "ignore",
+  "tailwindCSS.emmetCompletions": true
 }
